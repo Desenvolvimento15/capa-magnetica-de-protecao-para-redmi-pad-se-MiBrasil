@@ -1,0 +1,1 @@
+# capa-magnetica-de-protecao-para-redmi-pad-se-MiBrasil
