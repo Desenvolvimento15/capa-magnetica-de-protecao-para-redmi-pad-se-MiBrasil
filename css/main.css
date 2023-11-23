@@ -89,10 +89,9 @@ body{
 
   .p-icons-pad {
     font-size: 1.5rem;
-    /* text-align: center; */
+
     font-family: "Camphor Pro", sans-serif;
-    /* position: relative; */
-    /* line-height: 1.3; */
+
     overflow-wrap: break-word;
     margin-top: 0;
     margin-bottom: 0rem;
@@ -133,13 +132,8 @@ body{
   @media only screen and (max-width: 920px) {
 
   .img-fluid {width: 100%; height: auto;}
-
   .row-s101 {padding: 0 0px;}
   .spacing{padding: 1rem;}
-  .spacing-galery{padding: 1rem;}
-  .img-grid-desk{display: none;}
-  .img-grid-mob{display: block;}
-
   .col-md-12-s101 {
   -ms-flex: 0 0 100%;
   flex: 0 0 100%;
@@ -154,23 +148,33 @@ body{
 
   /********************************************************/
 
-
   .subtitle {
-  text-align: center;
-  font-size: 1.6rem;
-  font-weight: 700;
-  font-family: "Camphor Pro", sans-serif;
-  position: relative;
-  margin-bottom: 0.5rem;
-  }
-
-  .p-center {
-  font-size: 0.99rem;
-  text-align: center;
-  padding: 1rem;
-  font-family: "Camphor Pro", sans-serif;
-  position: relative;
-  overflow-wrap: break-word;
+    text-align: center;
+    font-size: 1.9rem;
+    font-weight: 600;
+    font-family: "Camphor Pro", sans-serif;
+    position: relative;
+    overflow-wrap: break-word;
+    margin-bottom: 1rem;
+    }
+  
+    .p-center {
+    font-size: 1.3rem;
+    text-align: center;
+    font-family: "Camphor Pro", sans-serif;
+    position: relative;
+    line-height: 1.3;
+    overflow-wrap: break-word;
+    margin-bottom: 1rem;
+    }
+  
+    .p-icons-pad {
+      font-size: 1.1rem;
+      font-family: "Camphor Pro", sans-serif;
+      font-weight: 4;
+      overflow-wrap: break-word;
+      margin-top: 0;
+      margin-bottom: 0rem;
   }
 
 
